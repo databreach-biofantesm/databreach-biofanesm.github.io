@@ -1,7 +1,7 @@
 
 body{
    background-color: rgb(0,0,0);
-   border-bottom-style: none;
+   border-bottom-style: none!important;
 }
 
 .descript p{
@@ -11,7 +11,7 @@ body{
    color:white;
    font-family: lucida console, monospace;
    font-size:18px;
-   border-bottom-style: none;
+   border-bottom-style: none!important;
 }
 
 .header{
