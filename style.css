@@ -10,6 +10,7 @@ body{
    color:white;
    font-family: lucida console, monospace;
    font-size:18px;
+   border-bottom-style: none;
 }
 
 .header{
